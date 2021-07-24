@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@next/bundle-analyzer": "^10.2.3",
-    "date-fns": "^2.22.1",
+    "date-fns": "^2.23.0",
     "gray-matter": "^4.0.3",
     "next": "9.5.5",
     "react": "16.13.1",
