@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@next/bundle-analyzer": "^10.2.3",
+    "@next/bundle-analyzer": "^11.0.1",
     "date-fns": "^2.23.0",
     "gray-matter": "^4.0.3",
     "next": "9.5.5",
